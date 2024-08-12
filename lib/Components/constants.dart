@@ -1,0 +1,45 @@
+class Constants {
+  static const double px0 = 0.0;
+  static const double px1 = 1.0;
+  static const double px2 = 2.0;
+  static const double px3 = 3.0;
+  static const double px4 = 4.0;
+  static const double px5 = 5.0;
+  static const double px6 = 6.0;
+  static const double px7 = 7.0;
+  static const double px8 = 8.0;
+  static const double px9 = 9.0;
+  static const double px10 = 10.0;
+  static const double px11 = 11.0;
+  static const double px12 = 12.0;
+  static const double px13 = 13.0;
+  static const double px14 = 14.0;
+  static const double px16 = 16.0;
+  static const double px17 = 17.0;
+  static const double px15 = 15.0;
+  static const double px18 = 18;
+  static const double px20 = 20;
+  static const double px22 = 22;
+  static const double px23 = 23;
+  static const double px24 = 24;
+  static const double px25 = 25.0;
+  static const double px26 = 26;
+  static const double px27 = 27;
+  static const double px28 = 28;
+  static const double px30 = 30.0;
+  static const double px32 = 32.0;
+  static const double px35 = 35.0;
+  static const double px36 = 36.0;
+  static const double px38 = 38.0;
+  static const double px40 = 40.0;
+  static const double px45 = 45.0;
+  static const double px48 = 48.0;
+  static const double px50 = 50.0;
+  static const double px55 = 55.0;
+  static const double px60 = 60.0;
+  static const double px70 = 70.0;
+  static const double px80 = 80.0;
+  static const double px180 = 180.0;
+
+  static const String appFonts = "Poppins";
+}
